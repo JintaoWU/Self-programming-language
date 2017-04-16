@@ -1,4 +1,4 @@
-##### Self-programming-language
+### Self Programming Language
 1. _Calc is expression evaluator with LL(1).
 It supports a variety of operations(+, -, *, /, ())._
 
